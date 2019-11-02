@@ -1,7 +1,7 @@
 var animal = 'dog'
 
 function myAnimal() {
-  return window.myAnimal()
+  return animal
 }
 
 function yourAnimal() {
